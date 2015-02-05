@@ -1,9 +1,9 @@
 {
   "name": "toolbar-button-to-open-url-in-private-browsing-window-addon",
-  "title": "toolbar-button-to-open-url-in-private-browsing-window-addon",
+  "title": "Open preset URL in Private Browsing window",
   "id": "jid1-B9N7TJi67nZu7g",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Display a toolbar button to open a preset URL in a new Private Browsing window.\n\nIcon by Aha-Soft, published under the CC Attribution 3.0 United States License.\n\n16px version downscaled by aviav.\n\nMore info about Aha-Soft and the License under http://files.softicons.com/download/toolbar-icons/free-grey-button-icons-by-aha-soft/readme.txt .",
+  "author": "aviav",
   "license": "MPL 2.0",
   "version": "0.1",
   "permissions": {"private-browsing": true},
