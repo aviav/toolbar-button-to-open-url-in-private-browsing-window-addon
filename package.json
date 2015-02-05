@@ -6,9 +6,9 @@
   "author": "",
   "license": "MPL 2.0",
   "version": "0.1",
-  "permissions": {"private-browsing": true}
+  "permissions": {"private-browsing": true},
   "preferences": [{
-    "name": "private-home",
+    "name": "privateHome",
     "title": "URL",
     "description": "To be opened in Private Browsing window",
     "type": "string",
